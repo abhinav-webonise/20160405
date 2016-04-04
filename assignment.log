@@ -1,0 +1,41 @@
+-----------------------1--------------------------------
+ubuntu
+-----------------------2--------------------------------
+Distributor ID:	Ubuntu
+Description:	Ubuntu 14.04.1 LTS
+Release:	14.04
+Codename:	trusty
+-----------------------3--------------------------------
+/home/administrator
+-----------------------4--------------------------------
+/home/administrator/abhinav/ass.sh
+-----------------------5--------------------------------
+           system boot  2016-04-04 23:58
+           run-level 2  2016-04-04 23:58
+LOGIN      tty4         2016-04-04 23:58               883 id=4
+LOGIN      tty5         2016-04-04 23:58               887 id=5
+LOGIN      tty2         2016-04-04 23:58               894 id=2
+LOGIN      tty3         2016-04-04 23:58               895 id=3
+LOGIN      tty6         2016-04-04 23:58               898 id=6
+LOGIN      tty1         2016-04-04 23:59              1448 id=1
+administrator ? :0           2016-04-05 00:00   ?          1721 (:0)
+administrator + pts/1        2016-04-05 00:01   .          2410 (:0)
+           pts/8        2016-04-05 00:01                 0 id=/8    term=0 exit=0
+-----------------------6--------------------------------
+administrator
+-----------------------7--------------------------------
+total 28
+drwxrwxr-x  4 administrator administrator 4096 Apr  5 00:54 .
+drwxr-xr-x 32 administrator administrator 4096 Apr  5 00:07 ..
+-rw-rw-r--  1 administrator administrator    0 Apr  5 00:30 1
+-rw-rw-r--  1 administrator administrator    0 Apr  5 00:31 2.text
+-rw-rw-r--  1 administrator administrator    0 Apr  5 00:31 3.text
+drwxrwxr-x  2 administrator administrator 4096 Apr  5 00:30 abc
+-rw-rw-r--  1 administrator administrator 1248 Apr  5 00:54 assignment.log
+-rwxrwxr-x  1 administrator administrator  763 Apr  5 00:51 ass.sh
+-rw-rw-r--  1 administrator administrator 1661 Apr  5 00:24 logfile.log
+-rw-rw-r--  1 administrator administrator    0 Apr  5 00:41 sample.txt
+drwxrwxr-x  2 administrator administrator 4096 Apr  5 00:31 xyz
+-------------------------------------------------------
+Tue Apr  5 00:54:02 IST 2016
+Tue Apr  5 00:54:17 IST 2016
